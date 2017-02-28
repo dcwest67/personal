@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(54,54,54) !important;
+        height: 75px;
+    line-height: 75px;
+}
+
+nav .brand-logo{
+    background-color: white;
+    height: 75px;
+}
